@@ -9,10 +9,7 @@
 
 <p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<!-- CHARACTER IMAGE -->
-<h3>THE MAN BEHIND THE WAR</h3>
-
+</p>
 <br/>
 
 <p>
