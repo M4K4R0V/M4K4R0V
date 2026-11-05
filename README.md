@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="banner.png" width="100%" />
+<img src="bannermak.png" width="100%" />
 
 <br/>
 
