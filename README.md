@@ -8,10 +8,6 @@
 <br/>
 
 <!-- TITLE -->
-<h1>
-  𝐕𝐋𝐀𝐃𝐈𝐌𝐈𝐑 𝐌𝐀𝐊𝐀𝐑𝐎𝐕
-</h1>
-
 <p>
   <sub>ВЛАДИМИР МАКАРОВ · THE ULTRANATIONALIST</sub>
 </p>
